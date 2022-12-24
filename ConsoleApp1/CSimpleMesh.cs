@@ -46,7 +46,7 @@ namespace Geometry
                 new Vector3i(6,2,3),
                 new Vector3i(6,3,7),
                 new Vector3i(6,5,4),
-                new Vector3i(6,4,7),
+                //new Vector3i(6,4,7),
 
             };
             
